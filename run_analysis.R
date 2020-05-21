@@ -37,9 +37,9 @@
 
 
 
-# RESULT:   The result is to create the 'tidy_data_summary' data table 
+# RESULT:   The result is to create the 'tidy_data_set' data table 
 #           with the average values for the target features, 
-#           which is saved as 'tidy_data_summary.txt' in the working directory. 
+#           which is saved as 'tidy_data_set.txt' in the working directory. 
 
 
 
